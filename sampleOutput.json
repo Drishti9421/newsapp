@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "Patrick McDonald",
+      "title": "2022 U.S. Open leaderboard: Live coverage, golf scores today, updates from Round 4 at The Country Club - CBS Sports",
+      "description": "Live scores, updates and highlights from the final round of the 122nd U.S. Open",
+      "url": "https://www.cbssports.com/golf/news/2022-u-s-open-leaderboard-live-coverage-golf-scores-today-updates-from-round-4-at-the-country-club/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/06/19/1df01201-5564-4949-804d-c269b80fe1b7/thumbnail/1200x675/cc0d331eaa95d56e83ee613b1ef42b13/us-open-sign-2022-usatsi.png",
+      "publishedAt": "2022-06-19T16:37:02Z",
+      "content": "The 2022 U.S. Open has turned into an all-time classic as Will Zalatoris and Matthew Fitzpatrick occupy the top of the leaderboard at 4 under entering the final 18 holes. Having both played a promine… [+1044 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Motorsport.com" },
+      "author": "Adam Cooper",
+      "title": "Leclerc hopes to join front battle from 19th on the grid in Canadian GP - Motorsport.com",
+      "description": "Charles Leclerc still hopes to join Max Verstappen and Carlos Sainz in the battle at the front of Sunday’s Formula 1 Canadian GP despite starting from the final row of the grid.",
+      "url": "https://www.motorsport.com/f1/news/leclerc-still-hopes-to-join-battle-at-the-front-from-19th/10324961/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/0ZRPAE80/s6/charles-leclerc-ferrari-f1-75-.jpg",
+      "publishedAt": "2022-06-19T11:31:35Z",
+      "content": "However, the Ferrari driver has set fourth as a more realistic target, and even then he admits that he will need to catch a break through strategy.\r\nThe Ferrari driver picked up a back of the grid pe… [+3061 chars]"
+    }
+  ]
+}
